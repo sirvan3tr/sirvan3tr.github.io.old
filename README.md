@@ -1,1 +1,2 @@
-# PhD-Website
+# My site
+Hosting PhD related docs.
