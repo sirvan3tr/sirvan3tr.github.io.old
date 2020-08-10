@@ -23,7 +23,7 @@ twitter_username: sevthreetr
 github_username:  sirvan3tr
 include_related_posts: false
 disqus:
-  shortname: awochna
+  shortname:
 
 # Build settings
 markdown: kramdown
