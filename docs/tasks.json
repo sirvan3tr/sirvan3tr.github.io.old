@@ -1,0 +1,56 @@
+[{'name': 'Write',
+    'events': [{
+        'status': 'empty',
+        'date_started': '',
+        'date_completed': '',
+    },
+    {
+        'status': 'empty',
+        'date_started': '',
+        'date_completed': '',
+    },
+    {
+        'status': 'empty',
+        'date_started': '',
+        'date_completed': '',
+    },
+    {
+        'status': 'empty',
+        'date_started': '',
+        'date_completed': '',
+    },
+    {
+        'status': 'empty',
+        'date_started': '',
+        'date_completed': '',
+    }]
+    },
+    {'name': 'Read',
+    'events': [{
+        'status': 'empty',
+        'date_started': '',
+        'date_completed': '',
+    },
+    {
+        'status': 'empty',
+        'date_started': '',
+        'date_completed': '',
+    },
+    {
+        'status': 'empty',
+        'date_started': '',
+        'date_completed': '',
+    },
+    {
+        'status': 'empty',
+        'date_started': '',
+        'date_completed': '',
+    },
+    {
+        'status': 'empty',
+        'date_started': '',
+        'date_completed': '',
+    }]
+    }
+]
+
